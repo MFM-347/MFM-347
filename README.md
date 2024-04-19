@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I'm Farhan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<!--
-**MFM-347/MFM-347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A react beginners
 
-Here are some ideas to get you started:
+- I’m currently learning React-js
+- Ask me about Anything about Web Dev, I will try to give answer
+- You can reach me <a href="mailto:madnifm347@outlook.com">Email</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+1. [RCG](https:github.com/MFM-347/RCG)
+2. [Top-10-MC-Youtubers](https:github.com/MFM-347/Top-MC-YT)
+
+## Github Statistics
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MFM-347&title=Followers&theme=onestar)](https://github.com/MFM-347/MFM-347)
+ 
+[![GitHub stats](https://bad-apple-github-readme.vercel.app/api?username=MFM-347&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MFM-347&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
