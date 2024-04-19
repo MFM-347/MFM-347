@@ -1,9 +1,8 @@
 # Hi, I'm Farhan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-A react beginners
-
-- I’m currently learning React-js
-- Ask me about Anything about Web Dev, I will try to give answer
+- I’m currently learning React-js.
+- Ask me about Anything about Web Dev, I will try to give answer.
+- I am currently working on [Top-MC-YT](https://github.com/MFM-347/Top-MC-YT) Project.
 - You can reach me <a href="mailto:madnifm347@outlook.com">Email</a>
 
 ## Recent Projects
