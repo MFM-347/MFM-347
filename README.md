@@ -7,7 +7,7 @@
 
 ## Recent Projects
 1. [RCG](https:github.com/MFM-347/RCG)
-2. [Top-10-MC-Youtubers](https:github.com/MFM-347/Top-MC-YT)
+2. [Top-10-MC-YT](https:github.com/MFM-347/Top-MC-YT)
 
 ## Github Statistics
 
