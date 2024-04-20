@@ -1,4 +1,4 @@
-# Hi, I'm Farhan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="37.5" />
+# Hi, I'm Farhan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
 
 - I’m currently learning React-js.
 - I am currently working on [Top-MC-YT](https://github.com/MFM-347/Top-MC-YT) Project.
