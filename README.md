@@ -5,8 +5,8 @@
 - You can reach me through <a href="mailto:madnifm347@outlook.com">Outlook Email</a>.
 
 ## Recent Projects
-1. [RCG](https:github.com/MFM-347/RCG)
-2. [Top-MC-YT](https:github.com/MFM-347/Top-MC-YT)
+1. [RCG](https://github.com/MFM-347/RCG)
+2. [Top-MC-YT](https://github.com/MFM-347/Top-MC-YT)
 
 ## Github Statistics
 
