@@ -6,6 +6,7 @@
 ## Social Links
 1. [YouTube](https://www.youtube.com/@MFM-347)
 2. [codepen](https://codepen.io/MFM-347)
+3. <a href="mailto:madnifm347@outlook.com">OutLook</a>
 
 ## Recent Projects
 1. [About-MC](https://github.com/MFM-347/About-MC)
