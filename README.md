@@ -1,6 +1,6 @@
 # Hi, I'm Farhan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
 
-- I’m a React-js Beginner.
+- I’m a Vue-js Beginner.
 - I am currently working on my ColorTools Project.
 
 ## Social Links
