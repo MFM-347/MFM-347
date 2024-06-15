@@ -4,7 +4,7 @@
 - I am currently working on my vCalc Project.
 
 ## Recent Projects
-1. [About-MC](https://github.com/MFM-347/About-MC)
+1. [ColorDet](https://github.com/MFM-347/ColorDet)
 1. [Codepen](https://github.com/MFM-347/Codepen)
 
 ## Social Links
