@@ -5,10 +5,10 @@
 
 ## Recent Projects
 1. [ColorDet](https://github.com/MFM-347/ColorDet)
-1. [Codepen](https://github.com/MFM-347/Codepen)
+1. [Codepen](https://github.com/MFM-347/vTools)
 
 ## Social Links
-1. [YouTube](https://www.youtube.com/@MFM-347)
+1. [YouTube](https://www.youtube.com/@T4C-347)
 2. [codepen](https://codepen.io/MFM-347)
 3. <a href="mailto:madnifm347@outlook.com">OutLook</a>
 
