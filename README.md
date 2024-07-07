@@ -5,7 +5,7 @@
 
 ## Recent Projects
 1. [ColorDet](https://github.com/MFM-347/ColorDet)
-1. [vTools](https://github.com/MFM-347/vTools)
+1. [CC: Color Converter](https://github.com/MFM-347/CC-Color-Converter)
 
 ## Social Links
 1. [YouTube](https://www.youtube.com/@T4C-347)
