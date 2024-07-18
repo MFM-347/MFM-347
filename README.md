@@ -1,10 +1,10 @@
 # Hi, I'm Farhan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
 
 - I’m a Vue-js Beginner.
-- I am currently working on my vCalc Project.
+- I'm interested in creating and exploring Color related Projects.
 
 ## Recent Projects
-1. [ColorDet](https://github.com/MFM-347/ColorDet)
+1. [Vue-Expense-Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)
 1. [CC: Color Converter](https://github.com/MFM-347/CC-Color-Converter)
 
 ## Social Links
