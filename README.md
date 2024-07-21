@@ -4,13 +4,14 @@
 - I'm interested in creating and exploring Color related Projects.
 
 ## Recent Projects
-1. [Vue-Expense-Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)
-1. [CC: Color Converter](https://github.com/MFM-347/CC-Color-Converter)
+1. [ContrastCheck](https://github.com/MFM-347/ContrastCheck)
+2. [Vue-Expense-Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)
+3. [CC-Color-Converter](https://github.com/MFM-347/CC-Color-Converter)
 
 ## Social Links
 1. [YouTube](https://www.youtube.com/@T4C-347)
 2. [codepen](https://codepen.io/MFM-347)
-3. <a href="mailto:madnifm347@outlook.com">OutLook</a>
+3. <a href="mailto:madnifm347@outlook.com">Email</a>
 
 ## Github Statistics
 
