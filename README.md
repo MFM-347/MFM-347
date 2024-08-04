@@ -6,7 +6,6 @@
 ## Recent Projects
 1. [ContrastCheck](https://github.com/MFM-347/ContrastCheck)
 2. [Vue-Expense-Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)
-3. [CC-Color-Converter](https://github.com/MFM-347/CC-Color-Converter)
 
 ## Social Links
 1. [YouTube](https://www.youtube.com/@T4C-347)
