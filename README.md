@@ -3,9 +3,10 @@
 - I’m a Vue-js Beginner.
 - I'm interested in creating and exploring Color related Projects.
 
-## Recent Projects
-1. [ContrastCheck](https://github.com/MFM-347/ContrastCheck)
-2. [Vue-Expense-Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)
+## My Projects
+1. [vCalc](https://github.com/MFM-347/vCalc)
+2. [ContrastCheck](https://github.com/MFM-347/ContrastCheck)
+3. [Vue-Expense-Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)
 
 ## Social Links
 1. [YouTube](https://www.youtube.com/@T4C-347)
