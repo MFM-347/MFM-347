@@ -25,7 +25,7 @@
 
 > \[!IMPORTANT]
 >
-> Star us to show your love &#10084; for MFM-347
+> Star this repo to show your love &#10084; for MFM-347
 
 
 [![back-to-top](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#top)
