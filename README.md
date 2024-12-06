@@ -13,6 +13,8 @@ Here are a few projects I’ve been working on:
 1. **[vCalc](https://github.com/MFM-347/vCalc)** - A lightweight calculator built with Vue.js.
 2. **[Code](https://github.com/MFM-347/Code)** - All of my HTML/CSS/JS Code on CodePen.
 3. **[Vue Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A simple, intuitive expense tracker.
+4. **[ContraColors](https://github.com/MFM-347/ContraColors)** - Best Color Contrast Checker for Accessibility and UI Design
+5. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic FIle Renamer for Android
 
 ## Connect With Me
 Feel free to reach out or explore more of my work:
