@@ -14,7 +14,7 @@ I'm passionate about Vue.js and fascinated by color-themed projects. As I contin
 
 ## Featured Projects
 Here are a few projects I’ve been working on:
-1. **[Vue Expense Tracker](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos and guides.
+1. **[Awesome](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos and guides.
 2. **[Vue Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A ui-focused, intuitive expense tracker.
 3. **[ContraColors](https://github.com/MFM-347/ContraColors)** - A PWA web app built with Vue.js, offering essential tools for designers and developers. Easily check color contrast for accessibility, convert colors between formats, and generate beautiful color schemes. 
 4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic FIle Renamer for Android.
