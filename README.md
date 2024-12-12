@@ -1,20 +1,23 @@
 <div id="top"></div>
 
-# Hello, I'm Farhan <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
+# Hi, I'm Farhan  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
 
 I'm passionate about Vue.js and fascinated by color-themed projects. As I continue my journey in frontend development, I'm keen on experimenting with creative ways to leverage colors and building interactive applications.
 
 ## Current Focus
-- Learning and improving Vue.js skills.
-- Developing color-centric projects that inspire creativity.
+- Learning and improving my Vue.js skills.
+- Building and Exploring color-centric projects that inspire creativity.
+- Enhancing my UI Dev SKills and Knowledge
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vite,vue,py,md&theme=dark)](https://github.com/MFM-347/)
 
 ## Featured Projects
 Here are a few projects I’ve been working on:
-1. **[vCalc](https://github.com/MFM-347/vCalc)** - A lightweight calculator built with Vue.js.
-2. **[Code](https://github.com/MFM-347/Code)** - All of my HTML/CSS/JS Code on CodePen.
-3. **[Vue Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A simple, intuitive expense tracker.
-4. **[ContraColors](https://github.com/MFM-347/ContraColors)** - Best Color Contrast Checker for Accessibility and UI Design
-5. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic FIle Renamer for Android
+1. **[Vue Expense Tracker](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos and guides.
+2. **[Vue Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A ui-focused, intuitive expense tracker.
+3. **[ContraColors](https://github.com/MFM-347/ContraColors)** - A PWA web app built with Vue.js, offering essential tools for designers and developers. Easily check color contrast for accessibility, convert colors between formats, and generate beautiful color schemes. 
+4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic FIle Renamer for Android.
 
 ## Connect With Me
 Feel free to reach out or explore more of my work:
