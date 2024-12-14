@@ -19,17 +19,17 @@ Here are a few projects I’ve been working on:
 3. **[ContraColors](https://github.com/MFM-347/ContraColors)** - A PWA web app built with Vue.js, offering essential tools for designers and developers. Easily check color contrast for accessibility, convert colors between formats, and generate beautiful color schemes. 
 4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic file renamer for Android.
 
-## Connect With Me
-Feel free to reach out or explore more of my work:
-- [YouTube](https://www.youtube.com/@T4C-347)
-- [CodePen](https://codepen.io/MFM-347)
-- [Email](mailto:madnifm347@outlook.com)
-
 ## GitHub Stats
 
 ![MFM-347's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfm-347&show_icons=true&theme=midnight-purple)
 
 ![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple)
+
+## Connect With Me
+Feel free to reach out or explore more of my work:
+- [YouTube](https://www.youtube.com/@T4C-347)
+- [CodePen](https://codepen.io/MFM-347)
+- [Email](mailto:madnifm347@outlook.com)
 
 ## Show Some Love
 > **Important Note:**
