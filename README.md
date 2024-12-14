@@ -6,18 +6,18 @@ I'm passionate about Vue.js and fascinated by color-themed projects. As I contin
 
 ## Current Focus
 - Learning and improving my Vue.js skills.
-- Building and Exploring color-centric projects that inspire creativity.
-- Enhancing my UI Dev SKills and Knowledge
+- Building and exploring color-centric projects that inspire creativity.
+- Enhancing my UI Dev skills and knowledge.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vite,vue,py,md&theme=dark)](https://github.com/MFM-347/)
 
 ## Featured Projects
 Here are a few projects I’ve been working on:
-1. **[Awesome](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos and guides.
-2. **[Vue Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A ui-focused, intuitive expense tracker.
+1. **[Awesome](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos, and guides.
+2. **[Vue Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A UI-focused, intuitive expense tracker.
 3. **[ContraColors](https://github.com/MFM-347/ContraColors)** - A PWA web app built with Vue.js, offering essential tools for designers and developers. Easily check color contrast for accessibility, convert colors between formats, and generate beautiful color schemes. 
-4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic FIle Renamer for Android.
+4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic file renamer for Android.
 
 ## Connect With Me
 Feel free to reach out or explore more of my work:
@@ -32,8 +32,8 @@ Feel free to reach out or explore more of my work:
 ![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple)
 
 ## Show Some Love
-> \[!IMPORTANT]
+> **Important Note:**
 >
-> If you enjoy my work, consider starring my repositories to show your support &#10084;
+> If you enjoy my work, consider starring my repositories to show your support ❤️
 
 [![Back to Top](https://img.shields.io/badge/-BACK_TO_TOP-000000?style=flat-square&labelColor=7F39CD)](#top)
