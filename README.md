@@ -2,7 +2,7 @@
 
 # Hi, I'm Farhan  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
 
-I'm passionate about Vue.js and fascinated by color-themed projects. As I continue my journey in frontend development, I'm keen on experimenting with creative ways to leverage colors and building interactive applications.
+[![Bio](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7F39CD&width=435&lines=I'm+a+passionate+Vue.js+dev+and;fascinated+by+color-themed+projects.)](https://git.io/typing-svg)
 
 ## Current Focus
 - Learning and improving my Vue.js skills.
@@ -16,7 +16,7 @@ I'm passionate about Vue.js and fascinated by color-themed projects. As I contin
 Here are a few projects I’ve been working on:
 1. **[Awesome](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos, and guides.
 2. **[Vue Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A UI-focused, intuitive expense tracker.
-3. **[ContraColors](https://github.com/MFM-347/ContraColors)** - A PWA web app built with Vue.js, offering essential tools for designers and developers. Easily check color contrast for accessibility, convert colors between formats, and generate beautiful color schemes. 
+3. **[ContraColors](https://github.com/MFM-347/ContraColors)** - A robust set of tools designed for designers and developers to create, explore, and optimize color palettes.
 4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic file renamer for Android.
 
 ## GitHub Stats
@@ -29,6 +29,7 @@ Here are a few projects I’ve been working on:
 Feel free to reach out or explore more of my work:
 - [YouTube](https://www.youtube.com/@T4C-347)
 - [CodePen](https://codepen.io/MFM-347)
+- [DevTo](https://dev.to/mfm347)
 - [Email](mailto:madnifm347@outlook.com)
 
 ## Show Some Love
