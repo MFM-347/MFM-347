@@ -2,7 +2,7 @@
 
 # Hi, I'm Farhan  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
 
-[![Bio](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7F39CD&width=435&lines=I'm+a+passionate+Vue.js+dev+and;fascinated+by+color-themed+projects.)](https://git.io/typing-svg)
+[![Bio](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7F39CD&width=435&lines=I'm+a+passionate+Vue.js+dev+and;fascinated+by+color-themed+projects.)](#)
 
 ## Current Focus
 - Learning and improving my Vue.js skills.
