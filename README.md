@@ -21,6 +21,8 @@ Here are a few projects I’ve been working on:
 
 ## GitHub Stats
 
+![GitHub Streak](https://streak-stats.demolab.com?user=mfm-347&theme=midnight-purple&border_radius=5&short_numbers=true)
+
 ![MFM-347's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfm-347&show_icons=true&theme=midnight-purple)
 
 ![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple)
