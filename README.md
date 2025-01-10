@@ -16,7 +16,6 @@
 Here are a few projects I’ve been working on:
 1. **[Awesome](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos, and guides.
 2. **[Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A UI-focused, intuitive expense tracker.
-3. **[ContraColors](https://github.com/MFM-347/ContraColors)** - A robust set of tools designed for designers and developers.
 4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic file renamer for Android.
 
 ## GitHub Stats
