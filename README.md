@@ -17,7 +17,6 @@ Here are a few projects I’ve been working on:
 1. **[Awesome](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos, and guides.
 2. **[ShadeMaker](https://github.com/MFM-347/shademaker)** - A web app that lets you create and customize color schemes.
 2. **[Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A UI-focused, intuitive expense tracker.
-4. **[RenDroid](https://github.com/MFM-347/RenDroid)** - Automatic file renamer for Android.
 
 ## GitHub Stats
 
