@@ -31,7 +31,4 @@ Feel free to reach out or explore more of my work:
 - [DevTo](https://dev.to/mfm347)
 - [Email](mailto:madnifm347@outlook.com)
 
-## Show Some Love
-**Important Note:** If you enjoy my work, consider starring my repositories and following me to show your support ❤️.
-
 [![Back to Top](https://img.shields.io/badge/-BACK_TO_TOP-000000?style=flat-square&labelColor=7F39CD)](#top)
