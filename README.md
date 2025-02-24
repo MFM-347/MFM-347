@@ -22,12 +22,12 @@ Here are a few projects I’ve been working on:
 
 ![Number of Repos](https://badges.strrl.dev/repos/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD)
 ![Commits in This Month](https://badges.strrl.dev/commits/monthly/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD)
-![Commits in This Life](https://badges.strrl.dev/commits/all/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD)
+![Commits in This Life😆](https://badges.strrl.dev/commits/all/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD)
 
-![MFM-347's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfm-347&show_icons=true&theme=midnight-purple)
+![MFM-347's GitHub stats](https://github-readme-stats.vercel.app/api?username=MFM-347&show_icons=true&theme=midnight-purple)
 
-![Streaks](https://streak-stats.demolab.com/?user=MFM-347&theme=midnight-purple)
-![Top Languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple)
+![Github Streaks](https://streak-stats.demolab.com/?user=MFM-347&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple&size_weight=0.5&count_weight=0.5)
 
 > **Note:** Top Languages is just %age value of the languages used in my public code and doesn't reflect my experience or skills.
 
