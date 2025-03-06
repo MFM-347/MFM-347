@@ -1,22 +1,26 @@
 <div id="top"></div>
 
-# Hi, I'm Farhan Madni  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
+# Hi, I'm Farhan Madni <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30px" />
 
-![Bio](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7F39CD&width=400&lines=Vue.js+Dev+and;fascinated+by+color-themed+projects.)
+![Bio](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=7F39CD&width=400&lines=Frontend+Vue.js+Dev+and;explorer+of+color-themed+projects)
 
 ## Current Focus
+
 - Learning and improving my Vue.js skills.
 - Building and exploring color-centric projects that inspire creativity.
 - Enhancing my UI Dev skills and knowledge.
 
 ## Skills
+
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,md,vite,npm,vue,py&theme=dark)
 
 ## Featured Projects
+
 Here are a few projects I’ve been working on:
+
 1. **[Awesome](https://github.com/MFM-347/Awesome)** - A curated list of resources, tools, tutorials, repos, and guides.
 2. **[Json VisualEdit](https://github.com/MFM-347/Json-VisualEdit)** - A user-friendly JSON visualization and editing tool.
-2. **[Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A UI-focused, intuitive expense tracker.
+3. **[Expense Tracker](https://github.com/MFM-347/Vue-Expense-Tracker)** - A UI-focused, intuitive expense tracker.
 
 ## GitHub Stats
 
@@ -33,7 +37,9 @@ Here are a few projects I’ve been working on:
 > **Note:** Top Languages is just %age value of the languages used in my public code and doesn't reflect my experience or skills.
 
 ## Connect With Me
+
 Feel free to reach out or explore more of my work:
+
 - [YouTube](https://www.youtube.com/@T4C-347)
 - [CodePen](https://codepen.io/MFM-347)
 - [Facebook](https://www.facebook.com/mfm347)
