@@ -24,17 +24,17 @@ Here are a few projects I’ve been working on:
 
 ## GitHub Stats
 
-![Number of Repos](https://badges.strrl.dev/repos/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD)
-![Commits in This Month](https://badges.strrl.dev/commits/monthly/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD)
-![Commits in This Life😆](https://badges.strrl.dev/commits/all/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD)
+<img height="24" src="https://badges.strrl.dev/repos/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD" alt="Number of Repos">
+<img height="24" src="https://badges.strrl.dev/commits/monthly/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD" alt="Commits in This Month">
+<img height="24" src="https://badges.strrl.dev/commits/all/MFM-347?color=17171f&style=for-the-badge&labelColor=7F39CD" alt="Commits in This Life">
+        
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=MFM-347&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+<img height="150" src="https://streak-stats.demolab.com/?user=MFM-347&theme=midnight-purple" alt="GitHub Streaks">
 
-![MFM-347's GitHub stats](https://github-readme-stats.vercel.app/api?username=MFM-347&show_icons=true&theme=midnight-purple)
-![Github Streaks](https://streak-stats.demolab.com/?user=MFM-347&theme=midnight-purple)
+<img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple&size_weight=0.5&count_weight=0.5" alt="Top Languages">
+<img height="300" src="./github_stats.svg" style="border: 1px solid white; border-radius: 4.5px" alt="Git Stats MFM-347">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple&size_weight=0.5&count_weight=0.5)
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=0070f3&font=Fira+Code&pause=1000&width=400&vCenter=true&center=true&lines=OctoProfile)](https://octoprofile.vercel.app/user?id=MFM-347)
-
-> **Note:** Top Languages is just %age value of the languages used in my public code and doesn't reflect my experience or skills.
+> **Note:** Number of commits may include commits from private and deleted repos, so don't get confused by this inconsistency.
 
 ## Connect With Me
 
@@ -49,3 +49,4 @@ Feel free to reach out or explore more of my work:
 - [Email](mailto:madnifm347@outlook.com)
 
 [![Back to Top](https://img.shields.io/badge/-BACK_TO_TOP-000000?style=flat-square&labelColor=7F39CD)](#top)
+![Update Github Stats](https://github.com/MFM-347/MFM-347/actions/workflows/main.yml/badge.svg)
