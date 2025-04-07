@@ -1,44 +1,33 @@
-<h1 align="center">Hi 👋, I'm Farhan Madni</h1>
-<h3 align="center">I'm a passionate Frontend dev and explorer of color-themed projects</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfm-347&theme=onestar" alt="mfm-347" /></a> </p>
+💡 I'm a passionate Frontend dev and explorer of color-themed projects<br>🌱 I’m currently learning Nuxt and UI Dev<br>👨‍💻 All of my projects are available at xyzdev.vercel.app<br>💬 Ask me about vue, js, tailwind, nuxt, vite<br>📫 How to reach me madnifm347@outlook.com
 
-- 🌱 I’m currently learning **Nuxt and UI Dev**
+## 🌐 Socials:
 
-- 👨‍💻 All of my projects are available at [xyzdev.vercel.app](xyzdev.vercel.app)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mfm347) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mfm347) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mfm-347) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mfm347) [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mfm347.bsky.social) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@UC7DjzTLaNw8dtGzyU7m63XQ) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madnifm347@outlook.com)
 
-- 💬 Ask me about **vue, js, tailwind, nuxt, vite**
+# 💻 Tech Stack:
 
-- 📫 How to reach me **madnifm347@outlook.com**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mfm-347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mfm-347" height="30" width="40" /></a>
-<a href="https://dev.to/mfm-347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mfm-347" height="30" width="40" /></a>
-<a href="https://twitter.com/mfm347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mfm347" height="30" width="40" /></a>
-<a href="https://fb.com/mfm347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mfm347" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/t4c-347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="t4c-347" height="30" width="40" /></a>
-</p>
+# 📊 GitHub Stats:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> </a> </p>
+![](https://github-readme-stats.vercel.app/api?username=MFM-347&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MFM-347&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MFM-347&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Top Projects:</h3>
-<a href="https://github.com/MFM-347/Awesome">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MFM-347&repo=Awesome&theme=midnight-purple" height="150" alt="Awesome Repo">
-</a>
-<a href="https://github.com/MFM-347/3rd-color">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MFM-347&repo=3rd-color&theme=midnight-purple" height="150" alt="3rd Color Repo">
-</a>
-<a href="https://github.com/MFM-347/Expense-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MFM-347&repo=Expense-Tracker&theme=midnight-purple" height="150" alt="Expense Tracker Repo">
-</a>
+## 🏆 GitHub Trophies
 
-<h3 align="left">Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfm-347&show_icons=true&locale=en&size_weight=0.5&count_weight=0.5&theme=midnight-purple" height="225" alt="mfm-347" /></p>
+![](https://github-profile-trophy.vercel.app/?username=MFM-347&theme=midnight-purple&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfm-347&show_icons=true&locale=en&theme=midnight-purple" height="225" alt="mfm-347" /></p>
+### ✍️ Random Dev Quote
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mfm-347&theme=midnight-purple" height="225" alt="mfm-347" /></p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Back to Top](https://img.shields.io/badge/-BACK_TO_TOP-000000?style=flat-square&labelColor=7F39CD)](#top)
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=MFM-347&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+
+---
+![](https://komarev.com/ghpvc/?username=MFM-347&style=for-the-badge)
